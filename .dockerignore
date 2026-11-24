@@ -1,0 +1,17 @@
+.git/
+.github/
+.idea/
+.vscode/
+*.iml
+.env
+.DS_Store
+venv/
+.pytest_cache/
+**/__pycache__/
+*.pyc
+.flake8
+requirements.txt
+README.md
+checklist.md
+result.png
+.gitignore
